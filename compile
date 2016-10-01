@@ -1,2 +1,2 @@
-brunch build --production
+webpack -p
 mix phoenix.digest
